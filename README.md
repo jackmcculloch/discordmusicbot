@@ -1,5 +1,8 @@
 # discordmusicbot
 
+YOU HAVE TO CHANGE BOT TOKEN
+Discord auto detects when your token is on github and makes you reset it so I cannot put the string entirely lol 
+
 Things to do to get this to work properly:
 1)*********************************************************************
 Visit the Download Page:
